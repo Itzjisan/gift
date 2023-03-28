@@ -90,7 +90,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://facebook.com/groups/554714119911648/')
+os.system('xdg-open https://www.facebook.com/TurRealabbu1')
 logo =("""\033[0;92m
 ╔═══════════════════════════════════════════════════╗
  ||     _____  _____   ______        _       ____  _____  
