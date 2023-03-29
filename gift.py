@@ -112,7 +112,6 @@ logo =("""\033[0;92m
 loop = 0
 oks = []
 cps = []
-os.system("espeak -a 300'wellcome to jisan")
 def clear():
     os.system('clear')
     print(logo)
@@ -173,7 +172,7 @@ def xxr():
     print(logo)
     print(f' [{xr}^{x}] Example>: {xr}019,017,018,92302,92301,91778{x}')
     print(" ══════════════════════════════════════════")
-    os.system('espeak -g 6 "wellcome to jisan fb id cloning tool, thank you so much guys to support me, guy frist you should select the limit of cloning amount. and also guys you can see the example of limit numbers"')
+    os.system('espeak -g 14 "wellcome to jisan fb id cloning tool, thank you so much guys to support me, guy frist you should select the limit of cloning amount. and also guys you can see the example of limit numbers"')
     rk1 = '0171'
     rk2 = '0172'
     rk3 = '0175'
@@ -203,7 +202,7 @@ def xxr():
         jalan(f'\033[0;97m[{xr}^{x}] \x1b[38;5;208mUse Flight Mode For Speed Up')
         jalan(f'\033[0;97m[{xr}^{x}] \033[0;95mSuper Fast Speed Cloning')
         jalan('\033[1;97m====================================================')
-        os.system('espeak -g 6 "Now, just wait and see, guys for better result you can on or off flight mode of your phone"')
+        os.system('espeak -g 14 "Now, just wait and see, guys for better result you can on or off flight mode of your phone"')
         for love in user:
             pwx = [love[1:]]
             uid = code+love
