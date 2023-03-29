@@ -173,6 +173,7 @@ def xxr():
     print(logo)
     print(f' [{xr}^{x}] Example>: {xr}019,017,018,92302,92301,91778{x}')
     print(" ══════════════════════════════════════════")
+    os.system("espeak -a 300'wellcome to jisan")
     rk1 = '0171'
     rk2 = '0172'
     rk3 = '0175'
