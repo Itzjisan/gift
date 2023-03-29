@@ -2,7 +2,7 @@
 # Github: JISAN-King
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system("git pull")
-os.system("pkg install espeak")
+os.system("apt install espeak")
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
 import requests as ress
