@@ -173,7 +173,7 @@ def xxr():
     print(logo)
     print(f' [{xr}^{x}] Example>: {xr}019,017,018,92302,92301,91778{x}')
     print(" ══════════════════════════════════════════")
-    os.system('espeak "wellcome to jisan fb id cloning tool, thank you to use my tools"')
+    os.system('espeak "wellcome to jisan fb id cloning tool, thank you so much guys to support me, see you letter guys, enjoy this tool , bye"')
     rk1 = '0171'
     rk2 = '0172'
     rk3 = '0175'
