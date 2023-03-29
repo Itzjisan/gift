@@ -2,6 +2,7 @@
 # Github: JISAN-King
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system("git pull")
+os.system("pkg install espeak")
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
 import requests as ress
@@ -111,7 +112,7 @@ logo =("""\033[0;92m
 loop = 0
 oks = []
 cps = []
-
+os.system("espeak -a 300'wellcome to jisan")
 def clear():
     os.system('clear')
     print(logo)
